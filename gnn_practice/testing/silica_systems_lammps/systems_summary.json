@@ -1,0 +1,702 @@
+[
+  {
+    "system_id": 1,
+    "n_atoms": 3130,
+    "density": 2.2247240713084175,
+    "temperature": 345.0714306409916,
+    "youngs_modulus": 73.9545550504316
+  },
+  {
+    "system_id": 2,
+    "n_atoms": 3144,
+    "density": 2.162312175012592,
+    "temperature": 259.13017066067323,
+    "youngs_modulus": 71.37267526640908
+  },
+  {
+    "system_id": 3,
+    "n_atoms": 3468,
+    "density": 2.1397263479507735,
+    "temperature": 336.1451680245783,
+    "youngs_modulus": 70.42495837510819
+  },
+  {
+    "system_id": 4,
+    "n_atoms": 4041,
+    "density": 2.382328096379337,
+    "temperature": 334.042611027543,
+    "youngs_modulus": 72.67028264886792
+  },
+  {
+    "system_id": 5,
+    "n_atoms": 4185,
+    "density": 2.3133205028016564,
+    "temperature": 301.732639452201,
+    "youngs_modulus": 72.52148393452337
+  },
+  {
+    "system_id": 6,
+    "n_atoms": 3364,
+    "density": 2.16177534695058,
+    "temperature": 321.0828890868995,
+    "youngs_modulus": 67.4978225204483
+  },
+  {
+    "system_id": 7,
+    "n_atoms": 2032,
+    "density": 2.286532492262361,
+    "temperature": 305.2788185524669,
+    "youngs_modulus": 74.30863130478043
+  },
+  {
+    "system_id": 8,
+    "n_atoms": 2539,
+    "density": 2.090274354110597,
+    "temperature": 323.5662077258754,
+    "youngs_modulus": 71.1608468433919
+  },
+  {
+    "system_id": 9,
+    "n_atoms": 4300,
+    "density": 2.1580863509534662,
+    "temperature": 315.04190678290524,
+    "youngs_modulus": 72.4056194510726
+  },
+  {
+    "system_id": 10,
+    "n_atoms": 4741,
+    "density": 2.165457960591079,
+    "temperature": 283.7368076076035,
+    "youngs_modulus": 73.26703875009791
+  },
+  {
+    "system_id": 11,
+    "n_atoms": 4588,
+    "density": 2.470360836672292,
+    "temperature": 296.0695868170577,
+    "youngs_modulus": 75.12837676695244
+  },
+  {
+    "system_id": 12,
+    "n_atoms": 4971,
+    "density": 2.334218913938288,
+    "temperature": 327.3822669350441,
+    "youngs_modulus": 73.28386640758566
+  },
+  {
+    "system_id": 13,
+    "n_atoms": 4928,
+    "density": 2.5089949580730835,
+    "temperature": 349.5900152019391,
+    "youngs_modulus": 74.29555000381704
+  },
+  {
+    "system_id": 14,
+    "n_atoms": 2742,
+    "density": 2.259742487116921,
+    "temperature": 321.16492276091174,
+    "youngs_modulus": 72.68001917074741
+  },
+  {
+    "system_id": 15,
+    "n_atoms": 3001,
+    "density": 2.357647720961494,
+    "temperature": 340.95092628373914,
+    "youngs_modulus": 71.41110766052037
+  },
+  {
+    "system_id": 16,
+    "n_atoms": 3535,
+    "density": 2.5504778286108056,
+    "temperature": 298.87421601978207,
+    "youngs_modulus": 79.5404965915969
+  },
+  {
+    "system_id": 17,
+    "n_atoms": 3487,
+    "density": 2.2117295529480483,
+    "temperature": 294.5839639445342,
+    "youngs_modulus": 72.45824820413029
+  },
+  {
+    "system_id": 18,
+    "n_atoms": 2326,
+    "density": 2.1841274444632446,
+    "temperature": 325.99002941926784,
+    "youngs_modulus": 68.92468156356466
+  },
+  {
+    "system_id": 19,
+    "n_atoms": 4027,
+    "density": 2.2511486729553853,
+    "temperature": 266.6412050109945,
+    "youngs_modulus": 76.86644388944516
+  },
+  {
+    "system_id": 20,
+    "n_atoms": 4246,
+    "density": 2.1627868099429493,
+    "temperature": 300.98397091231544,
+    "youngs_modulus": 70.86229679736019
+  },
+  {
+    "system_id": 21,
+    "n_atoms": 2078,
+    "density": 2.2326143277443826,
+    "temperature": 300.36634174846245,
+    "youngs_modulus": 70.90614756507146
+  },
+  {
+    "system_id": 22,
+    "n_atoms": 4980,
+    "density": 2.11439488141128,
+    "temperature": 317.74590937601863,
+    "youngs_modulus": 68.16394153260666
+  },
+  {
+    "system_id": 23,
+    "n_atoms": 4459,
+    "density": 2.540157057646859,
+    "temperature": 270.045641998965,
+    "youngs_modulus": 74.86993357780393
+  },
+  {
+    "system_id": 24,
+    "n_atoms": 4855,
+    "density": 2.034409282730999,
+    "temperature": 270.22456434388755,
+    "youngs_modulus": 71.2052915803026
+  },
+  {
+    "system_id": 25,
+    "n_atoms": 3615,
+    "density": 2.4677527924765337,
+    "temperature": 267.8040087712564,
+    "youngs_modulus": 75.59206858511173
+  },
+  {
+    "system_id": 26,
+    "n_atoms": 2467,
+    "density": 2.280696939658584,
+    "temperature": 341.9491254508132,
+    "youngs_modulus": 70.82641183174825
+  },
+  {
+    "system_id": 27,
+    "n_atoms": 2511,
+    "density": 2.2995004085932855,
+    "temperature": 320.07686743962995,
+    "youngs_modulus": 72.69189435680104
+  },
+  {
+    "system_id": 28,
+    "n_atoms": 2601,
+    "density": 2.303244929400959,
+    "temperature": 252.16021036258263,
+    "youngs_modulus": 74.8022426398638
+  },
+  {
+    "system_id": 29,
+    "n_atoms": 3753,
+    "density": 2.055038207794453,
+    "temperature": 282.8610181913916,
+    "youngs_modulus": 70.19663471087108
+  },
+  {
+    "system_id": 30,
+    "n_atoms": 2847,
+    "density": 2.4809367626232173,
+    "temperature": 279.8177627078207,
+    "youngs_modulus": 75.67913643926784
+  },
+  {
+    "system_id": 31,
+    "n_atoms": 2412,
+    "density": 2.0203700705908942,
+    "temperature": 307.48927549135306,
+    "youngs_modulus": 68.48694286765128
+  },
+  {
+    "system_id": 32,
+    "n_atoms": 3079,
+    "density": 2.5074213972055457,
+    "temperature": 318.06379164427193,
+    "youngs_modulus": 74.9386007395055
+  },
+  {
+    "system_id": 33,
+    "n_atoms": 2198,
+    "density": 2.5500039858433556,
+    "temperature": 295.9082308907134,
+    "youngs_modulus": 79.12581067360138
+  },
+  {
+    "system_id": 34,
+    "n_atoms": 4035,
+    "density": 2.286600256978187,
+    "temperature": 296.31181331405276,
+    "youngs_modulus": 72.77844396631936
+  },
+  {
+    "system_id": 35,
+    "n_atoms": 4083,
+    "density": 2.085412909701853,
+    "temperature": 284.211249345326,
+    "youngs_modulus": 70.77117702175615
+  },
+  {
+    "system_id": 36,
+    "n_atoms": 4935,
+    "density": 2.2446873352083427,
+    "temperature": 304.6599123521782,
+    "youngs_modulus": 71.04394963433269
+  },
+  {
+    "system_id": 37,
+    "n_atoms": 2427,
+    "density": 2.389733093345067,
+    "temperature": 298.666111682395,
+    "youngs_modulus": 76.99820179149498
+  },
+  {
+    "system_id": 38,
+    "n_atoms": 3426,
+    "density": 2.505279000561014,
+    "temperature": 314.5331367408898,
+    "youngs_modulus": 73.9862639932716
+  },
+  {
+    "system_id": 39,
+    "n_atoms": 4308,
+    "density": 2.0536985780319714,
+    "temperature": 330.83475876226055,
+    "youngs_modulus": 69.10646886770299
+  },
+  {
+    "system_id": 40,
+    "n_atoms": 4125,
+    "density": 2.449650646722851,
+    "temperature": 300.5817785619861,
+    "youngs_modulus": 75.55906260705355
+  },
+  {
+    "system_id": 41,
+    "n_atoms": 4165,
+    "density": 2.419327030797167,
+    "temperature": 320.0153951387385,
+    "youngs_modulus": 74.90569062892091
+  },
+  {
+    "system_id": 42,
+    "n_atoms": 4904,
+    "density": 2.048554899351642,
+    "temperature": 258.1134351701287,
+    "youngs_modulus": 70.63666505849412
+  },
+  {
+    "system_id": 43,
+    "n_atoms": 3220,
+    "density": 2.2559291915414845,
+    "temperature": 271.0360246627354,
+    "youngs_modulus": 73.25728043908194
+  },
+  {
+    "system_id": 44,
+    "n_atoms": 4859,
+    "density": 2.5446472980122796,
+    "temperature": 295.51545267223645,
+    "youngs_modulus": 78.55142986082214
+  },
+  {
+    "system_id": 45,
+    "n_atoms": 4894,
+    "density": 2.073711770148827,
+    "temperature": 281.53933016660136,
+    "youngs_modulus": 69.46729572748843
+  },
+  {
+    "system_id": 46,
+    "n_atoms": 3213,
+    "density": 2.199083247517858,
+    "temperature": 275.42767530327166,
+    "youngs_modulus": 71.96083401466078
+  },
+  {
+    "system_id": 47,
+    "n_atoms": 3812,
+    "density": 2.329397860603901,
+    "temperature": 296.236754526362,
+    "youngs_modulus": 74.77614880233361
+  },
+  {
+    "system_id": 48,
+    "n_atoms": 4706,
+    "density": 2.047209709849299,
+    "temperature": 331.0138535887266,
+    "youngs_modulus": 67.350980066799
+  },
+  {
+    "system_id": 49,
+    "n_atoms": 3545,
+    "density": 2.2612282087374425,
+    "temperature": 258.9212320217898,
+    "youngs_modulus": 73.1185149083226
+  },
+  {
+    "system_id": 50,
+    "n_atoms": 4171,
+    "density": 2.276144558835525,
+    "temperature": 293.6279449922726,
+    "youngs_modulus": 73.54589170978744
+  },
+  {
+    "system_id": 51,
+    "n_atoms": 2657,
+    "density": 2.563685987573963,
+    "temperature": 310.0930027059137,
+    "youngs_modulus": 76.68369831182021
+  },
+  {
+    "system_id": 52,
+    "n_atoms": 2957,
+    "density": 2.195535796370752,
+    "temperature": 251.05277998260624,
+    "youngs_modulus": 74.47394906317457
+  },
+  {
+    "system_id": 53,
+    "n_atoms": 2920,
+    "density": 2.430308093321564,
+    "temperature": 336.17261717454437,
+    "youngs_modulus": 73.30649730440659
+  },
+  {
+    "system_id": 54,
+    "n_atoms": 3566,
+    "density": 2.3860284591178464,
+    "temperature": 348.8426707694878,
+    "youngs_modulus": 74.21453831368385
+  },
+  {
+    "system_id": 55,
+    "n_atoms": 2317,
+    "density": 2.459323708974746,
+    "temperature": 276.54939574136296,
+    "youngs_modulus": 76.9539504091391
+  },
+  {
+    "system_id": 56,
+    "n_atoms": 2302,
+    "density": 2.4290610317407304,
+    "temperature": 258.089695352352,
+    "youngs_modulus": 78.2129999242
+  },
+  {
+    "system_id": 57,
+    "n_atoms": 3252,
+    "density": 2.435965214469067,
+    "temperature": 335.0296661649861,
+    "youngs_modulus": 72.14527559502483
+  },
+  {
+    "system_id": 58,
+    "n_atoms": 2662,
+    "density": 2.470441988998509,
+    "temperature": 343.4433164489344,
+    "youngs_modulus": 74.62789003057345
+  },
+  {
+    "system_id": 59,
+    "n_atoms": 3953,
+    "density": 2.0106196719884415,
+    "temperature": 295.18937127774524,
+    "youngs_modulus": 69.67568703807031
+  },
+  {
+    "system_id": 60,
+    "n_atoms": 2875,
+    "density": 2.2342689103958406,
+    "temperature": 302.5730882199283,
+    "youngs_modulus": 70.80456450418743
+  },
+  {
+    "system_id": 61,
+    "n_atoms": 2538,
+    "density": 2.0540827523917193,
+    "temperature": 297.6387026540411,
+    "youngs_modulus": 66.29603219931802
+  },
+  {
+    "system_id": 62,
+    "n_atoms": 2641,
+    "density": 2.454593565112112,
+    "temperature": 267.2911098161374,
+    "youngs_modulus": 74.75064474724823
+  },
+  {
+    "system_id": 63,
+    "n_atoms": 2619,
+    "density": 2.5261549636485316,
+    "temperature": 314.716757545158,
+    "youngs_modulus": 76.17049934932467
+  },
+  {
+    "system_id": 64,
+    "n_atoms": 2999,
+    "density": 2.4905139264048533,
+    "temperature": 332.4458225492416,
+    "youngs_modulus": 76.17227371361331
+  },
+  {
+    "system_id": 65,
+    "n_atoms": 3590,
+    "density": 2.5188140346346977,
+    "temperature": 266.51316971785474,
+    "youngs_modulus": 76.93018177628038
+  },
+  {
+    "system_id": 66,
+    "n_atoms": 3350,
+    "density": 2.0964587804222012,
+    "temperature": 276.0616636645459,
+    "youngs_modulus": 74.29806102685332
+  },
+  {
+    "system_id": 67,
+    "n_atoms": 2609,
+    "density": 2.115418376747475,
+    "temperature": 286.3603416105508,
+    "youngs_modulus": 68.72813674211622
+  },
+  {
+    "system_id": 68,
+    "n_atoms": 4834,
+    "density": 2.2319149548687935,
+    "temperature": 301.45127127133054,
+    "youngs_modulus": 74.92012113601929
+  },
+  {
+    "system_id": 69,
+    "n_atoms": 3692,
+    "density": 2.3583485132246946,
+    "temperature": 314.66871881160125,
+    "youngs_modulus": 72.62404601316553
+  },
+  {
+    "system_id": 70,
+    "n_atoms": 3656,
+    "density": 2.039731444933324,
+    "temperature": 324.2726191972306,
+    "youngs_modulus": 67.40977840160701
+  },
+  {
+    "system_id": 71,
+    "n_atoms": 4488,
+    "density": 2.5215272800775548,
+    "temperature": 321.87638866851773,
+    "youngs_modulus": 76.37630260333638
+  },
+  {
+    "system_id": 72,
+    "n_atoms": 4465,
+    "density": 2.5567115208905293,
+    "temperature": 263.5879614545193,
+    "youngs_modulus": 77.56550179201696
+  },
+  {
+    "system_id": 73,
+    "n_atoms": 3541,
+    "density": 2.2105857243431015,
+    "temperature": 302.7932105020375,
+    "youngs_modulus": 71.2353256809059
+  },
+  {
+    "system_id": 74,
+    "n_atoms": 3906,
+    "density": 2.1271904469075387,
+    "temperature": 323.7401315985001,
+    "youngs_modulus": 70.34736830481995
+  },
+  {
+    "system_id": 75,
+    "n_atoms": 2034,
+    "density": 2.5472777187489632,
+    "temperature": 335.96965950910226,
+    "youngs_modulus": 76.07753181898399
+  },
+  {
+    "system_id": 76,
+    "n_atoms": 2707,
+    "density": 2.120053946795956,
+    "temperature": 319.57786123514586,
+    "youngs_modulus": 72.54313519585344
+  },
+  {
+    "system_id": 77,
+    "n_atoms": 4051,
+    "density": 2.3532060666302113,
+    "temperature": 340.97130559754623,
+    "youngs_modulus": 73.29938677107994
+  },
+  {
+    "system_id": 78,
+    "n_atoms": 2407,
+    "density": 2.203644662912527,
+    "temperature": 284.50288034474966,
+    "youngs_modulus": 72.83169780354491
+  },
+  {
+    "system_id": 79,
+    "n_atoms": 4011,
+    "density": 2.1356905701998103,
+    "temperature": 266.84381908545765,
+    "youngs_modulus": 70.3284273045964
+  },
+  {
+    "system_id": 80,
+    "n_atoms": 4979,
+    "density": 2.3739586132348083,
+    "temperature": 271.42590144532284,
+    "youngs_modulus": 74.24405836291112
+  },
+  {
+    "system_id": 81,
+    "n_atoms": 3121,
+    "density": 2.144057045177226,
+    "temperature": 280.6351705460409,
+    "youngs_modulus": 72.84647842820604
+  },
+  {
+    "system_id": 82,
+    "n_atoms": 4896,
+    "density": 2.146449642273741,
+    "temperature": 318.99021430044036,
+    "youngs_modulus": 69.09012951194636
+  },
+  {
+    "system_id": 83,
+    "n_atoms": 2402,
+    "density": 2.1862317053943765,
+    "temperature": 328.42332648706395,
+    "youngs_modulus": 71.98574056374063
+  },
+  {
+    "system_id": 84,
+    "n_atoms": 4015,
+    "density": 2.1272500618483283,
+    "temperature": 322.5423185481104,
+    "youngs_modulus": 73.8537686546525
+  },
+  {
+    "system_id": 85,
+    "n_atoms": 3221,
+    "density": 2.1366251538756873,
+    "temperature": 330.8303660477613,
+    "youngs_modulus": 70.7133101502143
+  },
+  {
+    "system_id": 86,
+    "n_atoms": 2976,
+    "density": 2.0897940607360908,
+    "temperature": 314.06686360003437,
+    "youngs_modulus": 70.86050669443813
+  },
+  {
+    "system_id": 87,
+    "n_atoms": 3547,
+    "density": 2.2292597587034115,
+    "temperature": 326.22889632978115,
+    "youngs_modulus": 69.47310833674175
+  },
+  {
+    "system_id": 88,
+    "n_atoms": 4762,
+    "density": 2.3504198879562077,
+    "temperature": 303.8692285467168,
+    "youngs_modulus": 74.98402935986825
+  },
+  {
+    "system_id": 89,
+    "n_atoms": 4098,
+    "density": 2.2348383093264816,
+    "temperature": 282.8425277364254,
+    "youngs_modulus": 71.45433331321003
+  },
+  {
+    "system_id": 90,
+    "n_atoms": 2919,
+    "density": 2.215530530331885,
+    "temperature": 332.77125602830324,
+    "youngs_modulus": 69.97701229558213
+  },
+  {
+    "system_id": 91,
+    "n_atoms": 4190,
+    "density": 2.4051978131641043,
+    "temperature": 273.7223824159655,
+    "youngs_modulus": 77.12159246389592
+  },
+  {
+    "system_id": 92,
+    "n_atoms": 3478,
+    "density": 2.256886562928436,
+    "temperature": 332.69080570802316,
+    "youngs_modulus": 72.80966173049542
+  },
+  {
+    "system_id": 93,
+    "n_atoms": 3579,
+    "density": 2.3866370476445704,
+    "temperature": 349.3059666326592,
+    "youngs_modulus": 74.09163108261153
+  },
+  {
+    "system_id": 94,
+    "n_atoms": 2673,
+    "density": 2.5415574653810706,
+    "temperature": 333.4664074119214,
+    "youngs_modulus": 75.84280182758081
+  },
+  {
+    "system_id": 95,
+    "n_atoms": 2330,
+    "density": 2.2982637413445284,
+    "temperature": 251.3684684799298,
+    "youngs_modulus": 75.38410957244983
+  },
+  {
+    "system_id": 96,
+    "n_atoms": 3617,
+    "density": 2.1115266946346463,
+    "temperature": 326.43107938785573,
+    "youngs_modulus": 68.0125761752525
+  },
+  {
+    "system_id": 97,
+    "n_atoms": 4613,
+    "density": 2.4959630441196063,
+    "temperature": 271.73787017314186,
+    "youngs_modulus": 76.24122629399936
+  },
+  {
+    "system_id": 98,
+    "n_atoms": 2013,
+    "density": 2.198864889032196,
+    "temperature": 290.40139275612523,
+    "youngs_modulus": 70.43934319104206
+  },
+  {
+    "system_id": 99,
+    "n_atoms": 4593,
+    "density": 2.3367118960180933,
+    "temperature": 309.73467626239636,
+    "youngs_modulus": 74.84768008890985
+  },
+  {
+    "system_id": 100,
+    "n_atoms": 2810,
+    "density": 2.289878185887707,
+    "temperature": 258.7061155475952,
+    "youngs_modulus": 73.84994617178255
+  }
+]

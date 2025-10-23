@@ -1,0 +1,12 @@
+{
+  "total_atoms": 50000,
+  "n_silicon": 16666,
+  "n_oxygen": 33334,
+  "box_size": 100.0,
+  "temperature": 300.0,
+  "potential_energy": 6.349678510589044e+20,
+  "kinetic_energy": 104.16745655439304,
+  "density": 0.05,
+  "composition": "SiO2",
+  "structure_type": "amorphous"
+}
